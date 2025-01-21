@@ -3,6 +3,7 @@
 <h2>🖥️ Cybersecurity Projects:</h2>
 
   - [SOC Automation Project](https://github.com/markfordjr/SOC-Automation-Project)
+  - [Intrusion Detection](https://github.com/markfordjr/Intrusion-Detection)
   - [Ethical Hacking via Armitage](https://github.com/markfordjr/Ethical-Hacking-via-Armitage)
   - [Secure Drop](https://github.com/markfordjr/Secure-Drop)
   - [File Encryption](https://github.com/markfordjr/Pretty-Good-Privacy-Scheme)
