@@ -21,6 +21,7 @@
 <h2>📄 Certifications:</h2>
 
 - CompTIA Security+
+- CompTIA CySA+
 
 <h2> 🤳 Connect with me:</h2>
 
